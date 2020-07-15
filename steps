@@ -1,0 +1,3 @@
+first View page source code as usual,this is for finding something that may be have some information.
+second use burpsuite to catch a data packet.Pay attention to the data packet header where have "accept-language"tag.
+according to the home page ,The order of the national flags,change the tag content.the flag is in response page 
